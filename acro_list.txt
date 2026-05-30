@@ -1,0 +1,26 @@
+APV   Approach Procedure with Vertical guidance
+CAT-I Category I (precision approach)
+DC    Direct Current
+DFT   Discrete Fourier Transform
+EAS   Equivalent Airspeed
+EGNOS European Geostationary Navigation Overlay Service
+EGT   Exhaust Gas Temperature
+FF    Fuel Flow
+FFT   Fast Fourier Transform
+GNSS  Global Navigation Satellite System
+GPS   Global Positioning System
+HAL   Horizontal Alert Level
+HPE   Horizontal Position Error
+HPL   Horizontal Protection Level
+ICAO  International Civil Aviation Organization
+LAT   Latitude
+LON   Longitude
+PCM   Pulse Code Modulation
+RCC   Range Commanders Council
+SARPs Standards and Recommended Practices
+SBAS  Satellite Based Augmentation System
+SNR   Signal-to-Noise Ratio
+VAL   Vertical Alert Level
+VPE   Vertical Position Error
+VPL   Vertical Protection Level
+WGS84 World Geodetic System 1984
